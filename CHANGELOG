@@ -1,0 +1,14 @@
+Atomic Bomberman Launcher
+
+0.1 (2008-5-13)
+===================
+- NEW: Initial release.
+- NEW: Supports map preview.
+- NEW: Supports different 1p and 2p keyboard layouts.
+
+0.2 (2017-1-18)
+===================
+- CHANGE: Update .NET Framerwork build version.
+- CHANGE: Move project to VS2015.
+- CHANGE: Clean and reorganize filetree.
+- CHANGE: Update images and icons.
